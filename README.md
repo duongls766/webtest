@@ -1,7 +1,7 @@
 <html>
  <title>web dau</title>
 <body>
- < img  scr ="">
- <a href = "https://www.facebook.com/duongapptw">
-    
+ < img  scr="ve-tranh-anime.jpg">
+ <a href ="https://www.facebook.com/duongapptw">
+    </body>
   </html>
